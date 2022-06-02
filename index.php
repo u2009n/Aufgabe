@@ -1,10 +1,10 @@
-<?php
 
-//echo "Connected Successfully";
-?>
 
+
+<!--höher Aufruf der CSS-Datei -->
 <link rel='stylesheet' type='text/css' href='style.css'>
 
+<!--Hier sind die Alle Links in der Hauptseite, die zu allen Aufgabenseiten führen -->
 
 <div class="container">
     <h1>Die drei Aufgaben</h1>
